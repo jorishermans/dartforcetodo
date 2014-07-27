@@ -1,0 +1,5 @@
+name: dartforcetodo
+description: A sample web application
+dependencies:
+  browser: any
+  force: any
